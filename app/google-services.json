@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59322810283",
+    "project_id": "contas-de388",
+    "storage_bucket": "contas-de388.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59322810283:android:2d4df7b7fe3f7b3fd49cee",
+        "android_client_info": {
+          "package_name": "com.example.controledecontas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCccEE5r9vieB4bc99ec36ntMOnBp6o1mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
